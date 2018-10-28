@@ -1,2 +1,2 @@
 # React base Article Aggregator
-#### Current using predefined JSON for data
+#### Currently using predefined JSON for data
