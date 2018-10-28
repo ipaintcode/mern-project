@@ -1,0 +1,18 @@
+{
+  "name": "mern-project",
+  "version": "1.0.0",
+  "description": "Mern Project",
+  "main": "lib/server.js",
+  "repository": "https://github.com/ipaintcode/mern-project",
+  "author": "Mark Learst <learst@me.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.8.0",
+    "eslint-plugin-react": "^7.11.1"
+  },
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
